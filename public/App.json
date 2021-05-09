@@ -1,0 +1,69 @@
+{
+  "product": "App",
+  "shortDesc": "Applaffa Short desc",
+  "longDesc": "Applaffa Long desc",
+  "url": "https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor",
+  "data": {
+    "nodes": [
+      {
+        "id": "Harry",
+        "svg": "http://marvel-force-chart.surge.sh/marvel_force_chart_img/marvel.png",
+        "size": 500,
+        "fontSize": 18
+      },
+      { "id": "Sally" },
+      { "id": "Alice" },
+      { "id": "dasd" }
+    ],
+    "links": [
+      { "source": "Harry", "label": "di", "target": "Sally" },
+      { "source": "Alice", "target": "Harry" }
+    ]
+  },
+  "vocab": [
+    {
+      "word": "Bare metal hypervisor",
+      "shortDesc": "Bare metal hypervisor Short desc",
+      "longDesc": "Bare metal hypervisor long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor"
+    },
+    {
+      "word": "Business Continuity",
+      "shortDesc": "Business Continuity Short desc",
+      "longDesc": "Business Continuity long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity"
+    },
+    {
+      "word": "Business Continuity Application",
+      "shortDesc": "Business Continuity Application Short desc",
+      "longDesc": "Business Continuity Application long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity-application"
+    },
+    {
+      "word": "Business Continuity Plan",
+      "shortDesc": "Business Continuity Plan Short desc",
+      "longDesc": "Business Continuity Plan long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity-plan"
+    }
+  ],
+  "roles": [
+    {
+      "role": "Bare ",
+      "shortDesc": "Bare metal hypervisor Short desc",
+      "longDesc": "Bare metal hypervisor long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor"
+    },
+    {
+      "role": "Business =",
+      "shortDesc": "Business Continuity Short desc",
+      "longDesc": "Business Continuity long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity"
+    },
+    {
+      "role": " Continuity ",
+      "shortDesc": "Business Continuity Application Short desc",
+      "longDesc": "Business Continuity Application long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity-application"
+    }
+  ]
+}

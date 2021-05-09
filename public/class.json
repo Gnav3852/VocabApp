@@ -1,0 +1,126 @@
+{
+  "class": [
+    {
+      "course": "Living Earth",
+      "id": 142344,
+      "next_options": [
+        {
+          "course": "Chemistry in the Earth Systems",
+          "id": 1423443
+        },
+        {
+          "course": "Chemistry in the Earth Systems Honors",
+          "id": 1423463
+        }
+      ]
+    },
+    {
+      "course": "Physics in the Universe",
+      "id": 142343,
+      "next_options": [
+        {
+          "course": "Living Earth",
+          "id": 142344
+        },
+        {
+          "course": "Living Earth Honors",
+          "id": 1423143
+        }
+      ]
+    },
+    {
+      "course": "Living Earth Honors",
+      "id": 1423143,
+      "next_options": [
+        { "course": "Chemistry in the Earth Systems", "id": 1423443 },
+        { "course": "Chemistry in the Earth Systems Honors", "id": 1423463 },
+        { "course": "Physics", "id": 1423143 },
+        { "course": "AP Physics 1", "id": 1423443 },
+        { "course": "AP Physics C", "id": 1423463 }
+      ]
+    },
+    {
+      "course": "Chemistry in the Earth Systems",
+      "id": 1423443,
+      "next_options": [
+        { "course": "Physics", "id": 1423143 },
+        { "course": "AP Physics 1", "id": 1423443 },
+        {
+          "course": "AP Biology",
+          "id": 1423463
+        },
+        {
+          "course": "AP Chemistry",
+          "id": 1423463
+        },
+        {
+          "course": "AP Environmental science",
+          "id": 1423463
+        },
+        {
+          "course": "Anatomy and Physiology",
+          "id": 1423463
+        }
+      ]
+    },
+    {
+      "course": "Chemistry in the Earth Systems Honors",
+      "id": 1423463,
+      "next_options": [
+        { "course": "Physics", "id": 1423143 },
+        { "course": "AP Physics 1", "id": 1423443 },
+        {
+          "course": "AP Biology",
+          "id": 1423463
+        },
+        {
+          "course": "AP Chemistry",
+          "id": 1423463
+        },
+        {
+          "course": "AP Environmental science",
+          "id": 1423463
+        },
+        {
+          "course": "Anatomy and Physiology",
+          "id": 1423463
+        }
+      ]
+    },
+    {
+      "course": "Physics",
+      "id": 1423143,
+      "next_options": [{ "course": "AP Physics C", "id": 1423463 }]
+    },
+    {
+      "course": "AP Physics 1",
+      "id": 1423443,
+      "next_options": []
+    },
+    {
+      "course": "AP Physics C",
+      "id": 1423463,
+      "next_options": []
+    },
+    {
+      "course": "AP Biology",
+      "id": 1423463,
+      "next_options": []
+    },
+    {
+      "course": "AP Chemistry",
+      "id": 1423463,
+      "next_options": []
+    },
+    {
+      "course": "AP Environmental science",
+      "id": 1423463,
+      "next_options": []
+    },
+    {
+      "course": "Anatomy and Physiology",
+      "id": 1423463,
+      "next_options": []
+    }
+  ]
+}

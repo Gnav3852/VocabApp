@@ -1,0 +1,684 @@
+{
+  "A": [
+    {
+      "word": "Application Migration",
+      "shortDesc": "Application Migration Short desc",
+      "longDesc": "Application Migration long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-migration",
+      "quiz": [
+        {
+          "question": "Application Migration",
+          "options": {
+            "A": ["A", true, "q1a"],
+            "B": ["B", false, "q1b"],
+            "C": ["C", false, "q1c"],
+            "D": ["D", false, "q1d"],
+            "E": ["E", true, "q1e"]
+          }
+        },
+        {
+          "question": "Application Migration2",
+          "options": {
+            "A": ["A2", true, "q2a"],
+            "B": ["B2", true, "q2b"],
+            "C": ["C2", false, "q2c"],
+            "D": ["D2", false, "q2d"]
+          }
+        },
+        {
+          "question": "Application Migration3",
+          "options": {
+            "A": ["A3", false, "q3a"],
+            "B": ["B3", false, "q3b"],
+            "C": ["C3", false, "q3c"],
+            "D": ["D3", true, "q3d"]
+          }
+        }
+      ],
+      "aws": [
+        {
+          "question": "Application Migration",
+          "options": {
+            "A": ["A", false, "q1a"],
+            "B": ["B", false, "q1b"],
+            "C": ["C", false, "q1c"],
+            "D": ["D", false, "q1d"],
+            "E": ["E", false, "q1e"]
+          }
+        },
+        {
+          "question": "Application Migration2",
+          "options": {
+            "A": ["A2", false, "q2a"],
+            "B": ["B2", false, "q2b"],
+            "C": ["C2", false, "q2c"],
+            "D": ["D2", false, "q2d"]
+          }
+        },
+        {
+          "question": "Application Migration3",
+          "options": {
+            "A": ["A3", false, "q3a"],
+            "B": ["B3", false, "q3b"],
+            "C": ["C3", false, "q3c"],
+            "D": ["D3", false, "q3d"]
+          }
+        }
+      ]
+    },
+    {
+      "word": "Application Modernization",
+      "shortDesc": "Application Modernization Short desc",
+      "longDesc": "Application Modernization long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-modernization"
+    },
+    {
+      "word": "Application Monitoring",
+      "shortDesc": "Application Monitoring Short desc",
+      "longDesc": "Application Monitoring long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-monitoring"
+    },
+    {
+      "word": "Application Release Automation",
+      "shortDesc": "Application Release Automation Short desc",
+      "longDesc": "Application Release Automation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-release-automation"
+    },
+    {
+      "word": "Application Security",
+      "shortDesc": "Application Security Short desc",
+      "longDesc": "Application Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-security"
+    },
+    {
+      "word": "Application Virtualization",
+      "shortDesc": "Application Virtualization Short desc",
+      "longDesc": "Application Virtualization long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/application-virtualization"
+    }
+  ],
+  "B": [
+    {
+      "word": "Bare metal hypervisor",
+      "shortDesc": "Bare metal hypervisor Short desc",
+      "longDesc": "Bare metal hypervisor long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/bare-metal-hypervisor"
+    },
+    {
+      "word": "Business Continuity",
+      "shortDesc": "Business Continuity Short desc",
+      "longDesc": "Business Continuity long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity"
+    },
+    {
+      "word": "Business Continuity Application",
+      "shortDesc": "Business Continuity Application Short desc",
+      "longDesc": "Business Continuity Application long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity-application"
+    },
+    {
+      "word": "Business Continuity Plan",
+      "shortDesc": "Business Continuity Plan Short desc",
+      "longDesc": "Business Continuity Plan long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-continuity-plan"
+    },
+    {
+      "word": "Business Mobility",
+      "shortDesc": "Business Mobility Short desc",
+      "longDesc": "Business Mobility long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/business-mobility"
+    }
+  ],
+  "C": [
+    {
+      "word": "Cloud Automation",
+      "shortDesc": "Cloud Automation Short desc",
+      "longDesc": "Cloud Automation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-automation"
+    },
+    {
+      "word": "Cloud Computing Infrastructure",
+      "shortDesc": "Cloud Computing Infrastructure Short desc",
+      "longDesc": "Cloud Computing Infrastructure long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-computing-infrastructure"
+    },
+    {
+      "word": "Cloud Cost Management",
+      "shortDesc": "Cloud Cost Management Short desc",
+      "longDesc": "Cloud Cost Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-cost-management"
+    },
+    {
+      "word": "Cloud Economics",
+      "shortDesc": "Cloud Economics Short desc",
+      "longDesc": "Cloud Economics long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-economics"
+    },
+    {
+      "word": "Cloud Infrastructure Management",
+      "shortDesc": "Cloud Infrastructure Management Short desc",
+      "longDesc": "Cloud Infrastructure Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-infrastructure-management"
+    },
+    {
+      "word": "Cloud Management",
+      "shortDesc": "Cloud Management Short desc",
+      "longDesc": "Cloud Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-management"
+    },
+    {
+      "word": "Cloud Migration",
+      "shortDesc": "Cloud Migration Short desc",
+      "longDesc": "Cloud Migration long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-migration"
+    },
+    {
+      "word": "Cloud Networking",
+      "shortDesc": "Cloud Networking Short desc",
+      "longDesc": "Cloud Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-networking"
+    },
+    {
+      "word": "Cloud Scalability",
+      "shortDesc": "Cloud Scalability Short desc",
+      "longDesc": "Cloud Scalability long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-scalability"
+    },
+    {
+      "word": "Cloud Security",
+      "shortDesc": "Cloud Security Short desc",
+      "longDesc": "Cloud Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-security"
+    },
+    {
+      "word": "Cloud Server",
+      "shortDesc": "Cloud Server Short desc",
+      "longDesc": "Cloud Server long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/cloud-server"
+    },
+    {
+      "word": "Container Networking",
+      "shortDesc": "Container Networking Short desc",
+      "longDesc": "Container Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/container-networking"
+    },
+    {
+      "word": "Converged Infrastructure",
+      "shortDesc": "Converged Infrastructure Short desc",
+      "longDesc": "Converged Infrastructure long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/converged-infrastructure"
+    }
+  ],
+  "D": [
+    {
+      "word": "Data Center",
+      "shortDesc": "Data Center Short desc",
+      "longDesc": "Data Center long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center"
+    },
+    {
+      "word": "Data Center Extension",
+      "shortDesc": "Data Center Extension Short desc",
+      "longDesc": "Data Center Extension long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center-extension"
+    },
+    {
+      "word": "Data Center Migration",
+      "shortDesc": "Data Center Migration Short desc",
+      "longDesc": "Data Center Migration long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center-migration"
+    },
+    {
+      "word": "Data Center Operations",
+      "shortDesc": "Data Center Operations Short desc",
+      "longDesc": "Data Center Operations long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center-operations"
+    },
+    {
+      "word": "Data Center Security",
+      "shortDesc": "Data Center Security Short desc",
+      "longDesc": "Data Center Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center-security"
+    },
+    {
+      "word": "Data Center Solutions",
+      "shortDesc": "Data Center Solutions Short desc",
+      "longDesc": "Data Center Solutions long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/data-center-solutions"
+    },
+    {
+      "word": "Desktop as a Service (DaaS)",
+      "shortDesc": "Desktop as a Service (DaaS) Short desc",
+      "longDesc": "Desktop as a Service (DaaS) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/desktop-as-a-service"
+    },
+    {
+      "word": "DevOps",
+      "shortDesc": "DevOps Short desc",
+      "longDesc": "DevOps long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/devops"
+    },
+    {
+      "word": "Digital Transformation",
+      "shortDesc": "Digital Transformation Short desc",
+      "longDesc": "Digital Transformation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/digital-transformation"
+    },
+    {
+      "word": "Disaster Recovery",
+      "shortDesc": "Disaster Recovery Short desc",
+      "longDesc": "Disaster Recovery long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/disaster-recovery"
+    },
+    {
+      "word": "Disaster Recovery as a Service (DRaaS)",
+      "shortDesc": "Disaster Recovery as a Service (DRaaS) Short desc",
+      "longDesc": "Disaster Recovery as a Service (DRaaS) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/disaster-recovery-service-draas"
+    }
+  ],
+  "E": [
+    {
+      "word": "Employee Experience Management",
+      "shortDesc": "Employee Experience Management Short desc",
+      "longDesc": "Employee Experience Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/employee-experience-management"
+    },
+    {
+      "word": "Enterprise Cloud Suite",
+      "shortDesc": "Enterprise Cloud Suite Short desc",
+      "longDesc": "Enterprise Cloud Suite long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/enterprise-cloud-suite"
+    },
+    {
+      "word": "Enterprise Mobility",
+      "shortDesc": "Enterprise Mobility Short desc",
+      "longDesc": "Enterprise Mobility long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/enterprise-mobility"
+    },
+    {
+      "word": "Enterprise Networking",
+      "shortDesc": "Enterprise Networking Short desc",
+      "longDesc": "Enterprise Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/enterprise-networking"
+    },
+    {
+      "word": "Enterprise Security",
+      "shortDesc": "Enterprise Security Short desc",
+      "longDesc": "Enterprise Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/enterprise-security"
+    }
+  ],
+  "H": [
+    {
+      "word": "Hybrid Cloud",
+      "shortDesc": "Hybrid Cloud Short desc",
+      "longDesc": "Hybrid Cloud long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hybrid-cloud"
+    },
+    {
+      "word": "Hybrid Cloud Management",
+      "shortDesc": "Hybrid Cloud Management Short desc",
+      "longDesc": "Hybrid Cloud Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hybrid-cloud-management"
+    },
+    {
+      "word": "Hybrid Cloud Security",
+      "shortDesc": "Hybrid Cloud Security Short desc",
+      "longDesc": "Hybrid Cloud Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hybrid-cloud-security"
+    },
+    {
+      "word": "Hyperconverged Storage",
+      "shortDesc": "Hyperconverged Storage Short desc",
+      "longDesc": "Hyperconverged Storage long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hyperconverged-storage"
+    },
+    {
+      "word": "Hyperconvergence",
+      "shortDesc": "Hyperconvergence Short desc",
+      "longDesc": "Hyperconvergence long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hyperconvergence"
+    },
+    {
+      "word": "Hypervisor",
+      "shortDesc": "Hypervisor Short desc",
+      "longDesc": "Hypervisor long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/hypervisor"
+    }
+  ],
+  "I": [
+    {
+      "word": "Intent-based Networking",
+      "shortDesc": "Intent-based Networking Short desc",
+      "longDesc": "Intent-based Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/intent-based-networking"
+    },
+    {
+      "word": "Internal Firewall",
+      "shortDesc": "Internal Firewall Short desc",
+      "longDesc": "Internal Firewall long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/internal-firewall"
+    },
+    {
+      "word": "Internet of Things (IoT)",
+      "shortDesc": "Internet of Things (IoT) Short desc",
+      "longDesc": "Internet of Things (IoT) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/internet-things-iot"
+    },
+    {
+      "word": "Intrusion Prevention System",
+      "shortDesc": "Intrusion Prevention System Short desc",
+      "longDesc": "Intrusion Prevention System long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/intrusion-prevention-system"
+    },
+    {
+      "word": "IT Automation",
+      "shortDesc": "IT Automation Short desc",
+      "longDesc": "IT Automation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/it-automation"
+    },
+    {
+      "word": "IT Operations Management",
+      "shortDesc": "IT Operations Management Short desc",
+      "longDesc": "IT Operations Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/it-operations-management"
+    }
+  ],
+  "K": [
+    {
+      "word": "Kubernetes",
+      "shortDesc": "Kubernetes Short desc",
+      "longDesc": "Kubernetes long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/kubernetes"
+    },
+    {
+      "word": "Kubernetes Cluster",
+      "shortDesc": "Kubernetes Cluster Short desc",
+      "longDesc": "Kubernetes Cluster long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/kubernetes-cluster"
+    },
+    {
+      "word": "Kubernetes Networking",
+      "shortDesc": "Kubernetes Networking Short desc",
+      "longDesc": "Kubernetes Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/kubernetes-networking"
+    }
+  ],
+  "L": [
+    {
+      "word": "Log Management",
+      "shortDesc": "Log Management Short desc",
+      "longDesc": "Log Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/log-management"
+    }
+  ],
+  "M": [
+    {
+      "word": "Micro-Segmentation",
+      "shortDesc": "Micro-Segmentation Short desc",
+      "longDesc": "Micro-Segmentation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/micro-segmentation"
+    },
+    {
+      "word": "Microservices",
+      "shortDesc": "Microservices Short desc",
+      "longDesc": "Microservices long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/microservices"
+    },
+    {
+      "word": "Mobile Device Management",
+      "shortDesc": "Mobile Device Management Short desc",
+      "longDesc": "Mobile Device Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/mobile-device-management"
+    },
+    {
+      "word": "Mobile Device Security",
+      "shortDesc": "Mobile Device Security Short desc",
+      "longDesc": "Mobile Device Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/mobile-device-security"
+    },
+    {
+      "word": "Multi-Cloud",
+      "shortDesc": "Multi-Cloud Short desc",
+      "longDesc": "Multi-Cloud long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/multi-cloud"
+    },
+    {
+      "word": "Multi-Cloud Management",
+      "shortDesc": "Multi-Cloud Management Short desc",
+      "longDesc": "Multi-Cloud Management long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/multi-cloud-management"
+    }
+  ],
+  "N": [
+    {
+      "word": "Network Access Control",
+      "shortDesc": "Network Access Control Short desc",
+      "longDesc": "Network Access Control long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-access-control"
+    },
+    {
+      "word": "Network Analytics",
+      "shortDesc": "Network Analytics Short desc",
+      "longDesc": "Network Analytics long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-analytics"
+    },
+    {
+      "word": "Network Automation",
+      "shortDesc": "Network Automation Short desc",
+      "longDesc": "Network Automation long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-automation"
+    },
+    {
+      "word": "Network Convergence",
+      "shortDesc": "Network Convergence Short desc",
+      "longDesc": "Network Convergence long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-convergence"
+    },
+    {
+      "word": "Network Functions Virtualization (NFV)",
+      "shortDesc": "Network Functions Virtualization (NFV) Short desc",
+      "longDesc": "Network Functions Virtualization (NFV) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-functions-virtualization-nfv"
+    },
+    {
+      "word": "Network Infrastructure Security",
+      "shortDesc": "Network Infrastructure Security Short desc",
+      "longDesc": "Network Infrastructure Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-infrastructure-security"
+    },
+    {
+      "word": "Network Security",
+      "shortDesc": "Network Security Short desc",
+      "longDesc": "Network Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-security"
+    },
+    {
+      "word": "Network Virtualization",
+      "shortDesc": "Network Virtualization Short desc",
+      "longDesc": "Network Virtualization long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/network-virtualization"
+    },
+    {
+      "word": "Next-Generation Firewall",
+      "shortDesc": "Next-Generation Firewall Short desc",
+      "longDesc": "Next-Generation Firewall long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/next-generation-firewall"
+    }
+  ],
+  "O": [
+    {
+      "word": "OpenStack API",
+      "shortDesc": "OpenStack API Short desc",
+      "longDesc": "OpenStack API long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/openstack-api"
+    }
+  ],
+  "P": [
+    {
+      "word": "Perimeter Firewall",
+      "shortDesc": "Perimeter Firewall Short desc",
+      "longDesc": "Perimeter Firewall long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/perimeter-firewall"
+    },
+    {
+      "word": "Private Cloud",
+      "shortDesc": "Private Cloud Short desc",
+      "longDesc": "Private Cloud long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/private-cloud"
+    },
+    {
+      "word": "Private Cloud Solutions",
+      "shortDesc": "Private Cloud Solutions Short desc",
+      "longDesc": "Private Cloud Solutions long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/private-cloud-solutions"
+    },
+    {
+      "word": "Public Cloud",
+      "shortDesc": "Public Cloud Short desc",
+      "longDesc": "Public Cloud long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/public-cloud"
+    }
+  ],
+  "R": [
+    {
+      "word": "Ransomware",
+      "shortDesc": "Ransomware Short desc",
+      "longDesc": "Ransomware long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/ransomware"
+    }
+  ],
+  "S": [
+    {
+      "word": "SD-WAN",
+      "shortDesc": "SD-WAN Short desc",
+      "longDesc": "SD-WAN long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/sd-wan"
+    },
+    {
+      "word": "Server Virtualization",
+      "shortDesc": "Server Virtualization Short desc",
+      "longDesc": "Server Virtualization long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/server-virtualization"
+    },
+    {
+      "word": "Service Mesh",
+      "shortDesc": "Service Mesh Short desc",
+      "longDesc": "Service Mesh long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/service-mesh"
+    },
+    {
+      "word": "Software Load Balancing",
+      "shortDesc": "Software Load Balancing Short desc",
+      "longDesc": "Software Load Balancing long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/software-load-balancing"
+    },
+    {
+      "word": "Software-Defined Networking (SDN)",
+      "shortDesc": "Software-Defined Networking (SDN) Short desc",
+      "longDesc": "Software-Defined Networking (SDN) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/software-defined-networking"
+    },
+    {
+      "word": "Software-Defined Storage",
+      "shortDesc": "Software-Defined Storage Short desc",
+      "longDesc": "Software-Defined Storage long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/software-defined-storage"
+    },
+    {
+      "word": "Storage Area Network (SAN)",
+      "shortDesc": "Storage Area Network (SAN) Short desc",
+      "longDesc": "Storage Area Network (SAN) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/storage-area-network-san"
+    }
+  ],
+  "T": [
+    {
+      "word": "Telco Cloud",
+      "shortDesc": "Telco Cloud Short desc",
+      "longDesc": "Telco Cloud long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/telco-cloud"
+    },
+    {
+      "word": "Threat Intelligence",
+      "shortDesc": "Threat Intelligence Short desc",
+      "longDesc": "Threat Intelligence long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/threat-intelligence"
+    }
+  ],
+  "U": [
+    {
+      "word": "Unified Endpoint Management (UEM)",
+      "shortDesc": "Unified Endpoint Management (UEM) Short desc",
+      "longDesc": "Unified Endpoint Management (UEM) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/unified-endpoint-management"
+    }
+  ],
+  "V": [
+    {
+      "word": "Virtual Desktop",
+      "shortDesc": "Virtual Desktop Short desc",
+      "longDesc": "Virtual Desktop long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-desktops"
+    },
+    {
+      "word": "Virtual Desktop Infrastructure (VDI)",
+      "shortDesc": "Virtual Desktop Infrastructure (VDI) Short desc",
+      "longDesc": "Virtual Desktop Infrastructure (VDI) long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-desktop-infrastructure-vdi"
+    },
+    {
+      "word": "Virtual Desktop Infrastructure Security",
+      "shortDesc": "Virtual Desktop Infrastructure Security Short desc",
+      "longDesc": "Virtual Desktop Infrastructure Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-desktop-infrastructure-security"
+    },
+    {
+      "word": "Virtual Infrastructure",
+      "shortDesc": "Virtual Infrastructure Short desc",
+      "longDesc": "Virtual Infrastructure long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-infrastructure"
+    },
+    {
+      "word": "Virtual Machine",
+      "shortDesc": "Virtual Machine Short desc",
+      "longDesc": "Virtual Machine long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-machine"
+    },
+    {
+      "word": "Virtual Networking",
+      "shortDesc": "Virtual Networking Short desc",
+      "longDesc": "Virtual Networking long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtual-networking"
+    },
+    {
+      "word": "Virtualized Security",
+      "shortDesc": "Virtualized Security Short desc",
+      "longDesc": "Virtualized Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/virtualized-security"
+    }
+  ],
+  "W": [
+    {
+      "word": "Windows for Mac",
+      "shortDesc": "Windows for Mac Short desc",
+      "longDesc": "Windows for Mac long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/windows-mac"
+    },
+    {
+      "word": "Workload Protection",
+      "shortDesc": "Workload Protection Short desc",
+      "longDesc": "Workload Protection long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/workload-protection"
+    }
+  ],
+  "Z": [
+    {
+      "word": "Zero-trust Security",
+      "shortDesc": "Zero-trust Security Short desc",
+      "longDesc": "Zero-trust Security long desc",
+      "url": "https://www.vmware.com/topics/glossary/content/zero-trust-security"
+    }
+  ]
+}
